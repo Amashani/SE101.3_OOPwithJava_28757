@@ -137,15 +137,15 @@ public class Test
     public static void main(String[] args) 
     {
         Students s1=new Students();
-        s1.setId(28921);
-        s1.setName("Fazla Fiyas");
+        s1.setId(28757);
+        s1.setName("Amashani Dilhara");
         s1.setCourse("Java");
         System.out.println("Student ID: "+s1.getId());
         System.out.println("Student Name: "+s1.getName());
         System.out.println("Student Course: "+s1.getCourse());
         
         Lecturer L1=new Lecturer();
-        L1.setId(123);
+        L1.setId(12345);
         L1.setName("Mohomed Shafraz");
         L1.setProgramme("Programming with Java");
         System.out.println("Lecturer ID: "+L1.getId());
