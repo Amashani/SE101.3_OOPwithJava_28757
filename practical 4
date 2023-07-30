@@ -38,6 +38,7 @@ public class Employee
         return empDesignation;
     }
 }
+
 Exercise 02:
 Develop the following class execute and discuss the answer: Please note that each class stored in separate files. Write down the answer.
 class SuperB {
